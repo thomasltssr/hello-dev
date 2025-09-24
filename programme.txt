@@ -1,7 +1,7 @@
 # Ce qu'il faut faire
 
 *Ajouter des fichiers
-*Ajouter d'autres personnes au projet ?
+*Modifier des fichiers 
 *Voir l'historique
 *Ne pas avoir peur des merge et des rebase
 *Ajout d'utilisateurs ?
