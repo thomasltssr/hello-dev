@@ -4,4 +4,4 @@ Ce projet est une
 
 Découverte de Github
 
-Et franchement, c'est super.
+Et franchement, c'est super!
